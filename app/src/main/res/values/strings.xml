@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LearningRoom</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hint_item">ShoppingItem...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Shopping item not saved because it is empty.</string>
+</resources>
